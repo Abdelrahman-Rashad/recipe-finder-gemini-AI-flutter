@@ -1,0 +1,14 @@
+{
+    "title": "Search for a recipe",
+    "subTitle": "What's on your mind?",
+    "hintSearch": "Search by food name...",
+    "validationSearch": "Search by food name...",
+    "modelFailed": "An error occurred! Please try again later.",
+    "description": "Description",
+    "ingredients": "Ingredients",
+    "notFoundIngredients": "No ingredients found",
+    "instructions": "Instructions",
+    "notFoundInstructions": "No Instructions found",
+    "notFoundTitle": "The AI doesn't recognize this food",
+    "notFoundDescription": "No description found"
+}

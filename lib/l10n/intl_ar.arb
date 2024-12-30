@@ -1,0 +1,14 @@
+{
+    "title": "دور على أكلة تشبعك",
+    "subTitle": "نفسك تاكل إيه؟",
+    "hintSearch": "اكتب اسم الأكلة اللي في بالك...",
+    "validationSearch": "يلا يا شيف، اكتب اسم الأكلة!",
+    "modelFailed": "المطبخ زحمة دلوقتي، جرب كمان شوية",
+    "description": "الحكاية",
+    "notFoundDescription": "يا خبر! مفيش حكاية للأكلة دي",
+    "ingredients": "المقادير",
+    "notFoundIngredients": "يا نهار أبيض! مفيش مقادير هنا",
+    "instructions": "طريقة التحضير",
+    "notFoundInstructions": "الطباخ نام ومكتبش الخطوات",
+    "notFoundTitle": "الذكاء الاصطناعى مش معترف باسم الأكلة دي"
+}
