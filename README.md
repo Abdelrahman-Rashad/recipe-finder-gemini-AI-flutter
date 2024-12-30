@@ -1,16 +1,23 @@
-# recipe_finder
+# Recipe Finder with Gemini AI Flutter
 
-A new Flutter project.
+## Aim
+Integrate Gemini AI to provide users with detailed ingredients and step-by-step cooking instructions
 
-## Getting Started
+## Technology
+I used Flutter technologye to provide this app in Android and IOS.<br />
+- Cubit <br />
+- Gemini AI <br />
+- Localization (English & Arabic) <br />
+- Clean architecture <br />
+- Dio (API) <br />
 
-This project is a starting point for a Flutter application.
+## Language 
+Dart
 
-A few resources to get you started if this is your first Flutter project:
+## UI Design
+the design was given by Figma 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Images
+![](mockup/cover-recipe-finder.png)
+![](mockup/gemini-ai.png)
+![](mockup/localization.png)
