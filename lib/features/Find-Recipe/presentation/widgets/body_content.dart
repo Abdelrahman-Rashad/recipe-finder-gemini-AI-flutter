@@ -102,13 +102,11 @@ class BodyContent extends StatelessWidget {
                   physics: NeverScrollableScrollPhysics(),
                   children: (responseContent.recipeInstructions ??
                           List.from([S.of(context).notFoundInstructions]))
-                      .map((e) => Expanded(
-                            child: Text(
-                              "-  $e",
-                              style: TextAppStyles.stylefont15strong,
-                              softWrap: true,
-                              overflow: TextOverflow.visible,
-                            ),
+                      .map((e) => Text(
+                            "-  $e",
+                            style: TextAppStyles.stylefont15strong,
+                            softWrap: true,
+                            overflow: TextOverflow.visible,
                           ))
                       .toList(),
                 ),

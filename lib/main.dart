@@ -13,7 +13,7 @@ import 'generated/l10n.dart';
 import 'package:intl/intl.dart';
 
 void main() async {
-  await dotenv.load(fileName: ".env");
+  await dotenv.load();
   // log(dotenv.env['huggingface']!);
   // OpenAI.apiKey = dotenv.env['huggingface']!;
   DioHelperQwen.init("BASEURLMODEL");
