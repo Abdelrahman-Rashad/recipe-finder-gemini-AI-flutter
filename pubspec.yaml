@@ -36,6 +36,8 @@ dependencies:
   dio: ^5.7.0
   flutter:
     sdk: flutter
+  flutter_web_plugins:
+    sdk: flutter
   flutter_bloc: ^8.1.6
   flutter_dotenv: ^5.2.1
   flutter_markdown: ^0.7.4+3
